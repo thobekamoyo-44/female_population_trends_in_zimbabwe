@@ -50,6 +50,17 @@ The dataset was downloaded from ZimData and is sourced from the World Bank.
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- Power BI
+
+## Power BI Dashboard
+
+An interactive dashboard built using Power BI to explore:
+- Female population trends in Zimbabwe.
+- Fertility and contraceptive use.
+- Healthcare access challenges.
+- Differences in reproductive health indicators across wealth quintiles.
+
+The dashboard provides visual insights into women's population, reproductive health and healthcare inequalities in Zimbabwe.
 
 ## Project Structure
 
@@ -86,6 +97,7 @@ Limitations
 - Direct education indicators were not available in the dataset.
 - Some indicators cover different periods.
 - The findings identify associations and trends rather than proving causation.
+  
 Conclusion
 The analysis highlights significant differences in women's reproductive health outcomes across wealth groups in Zimbabwe.
 
