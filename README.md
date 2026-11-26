@@ -53,6 +53,7 @@ The dataset was downloaded from ZimData and is sourced from the World Bank.
 
 ## Project Structure
 
+```
 female_population_trends_in_zimbabwe/
 │
 ├── data/
@@ -70,6 +71,7 @@ female_population_trends_in_zimbabwe/
 │
 ├── README.md
 └── Zimbabwe_Womens_Population_and_Contributing_Factors_Dashboard.pbix
+```
 
 Key Findings
 - Zimbabwe's female population increased substantially over the period analysed.
